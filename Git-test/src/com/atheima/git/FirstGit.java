@@ -13,4 +13,5 @@ public class FirstGit {
     public void test(){
         System.out.println("加一个方法");
     }
+    public void add(){}
 }
